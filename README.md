@@ -1,6 +1,10 @@
 # NLP_project
 
 
+https://github.com/user-attachments/assets/79f0254c-e06f-455d-8eee-d255ca023f95
+
+
+
 install flask 
 pip install flask
 
